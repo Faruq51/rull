@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 858-0826-4974', 'Hyzer'],
+  ['+62 858-0826-4974', 'celek'],
   ['+62 858-0826-4974'],
   ['+62 858-0826-4974']
 ]
